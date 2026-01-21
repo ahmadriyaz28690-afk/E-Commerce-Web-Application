@@ -5,13 +5,13 @@ During this project, I learned how real backend development works — handling r
 Every error taught me a new concept, and this project.
 
 # TeckStack-
-Java
-Spring Boot
-Spring MVC
-Spring Security
-JPA / Hibernate
-POSTGRESQL 
-REST APIs
+Java,
+Spring Boot,
+Spring MVC,
+Spring Security,
+JPA / Hibernate,
+POSTGRESQL,
+REST APIs,
 Postman (API Testing).
 
 
